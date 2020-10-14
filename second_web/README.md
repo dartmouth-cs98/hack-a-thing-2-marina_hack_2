@@ -1,6 +1,19 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-## This project is based a Beginner React Youtube Tutorial by "Brian Design"
+## Description 
+I followed a tutorial for beginners learning how to create a website through React. I created four pages--home, products, services, and sign-ups. I got to learn the css behind cool designs in the nav bar and cards templates. The backgrounds are videos. I also learned about button states to change them when we click on them.
+
+## Who did what
+I alone followed the tutorial to create the react website
+
+## What you learned
+I learned how to create routes and pages that the button link to. I also learned the css to create video backgrounds, and animating cards. The most difficult part to learn was understand the onClick, buttonStyle, and buttonSize variables. 
+
+## What didn’t work
+When I hover over the "watch trailer" and "get started" button, the cursor disappears and I don't know why. Also when the window is small, the navigation bar spacing is a little funky, the css isn't working perfectly. 
+
+## tutorial
+This project is based on a Beginner React Youtube Tutorial by "Brian Design"
 https://www.youtube.com/watch?v=I2UBjN5ER4s
 
 
